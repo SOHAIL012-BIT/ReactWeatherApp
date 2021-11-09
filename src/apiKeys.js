@@ -1,5 +1,5 @@
 module.exports = {
     key:[your key],
-    base: [your Api],
+    base: [your ApiKey],
   };
 //   Api Key from openweathermap
